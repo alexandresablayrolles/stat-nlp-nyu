@@ -1,6 +1,6 @@
 ---
 name:
-   first: Slav
-   last: Petrov
-email: slav@petrovi.de
-leaderboard: SlavPetrov
+   first: Alexandre 
+   last: Sablayrolles
+email: sla382@nyu.edu
+leaderboard: Sacrebleu

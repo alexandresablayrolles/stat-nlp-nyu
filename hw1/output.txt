@@ -6,7 +6,7 @@ WER Baselines:
   Worst Path: 0.21014009339559706
   Avg Path:   0.11927055936159012
 
-GUESS:	AM: -2.12E03	LM: -7.39E01	Total: -2.19E03	[but, many, oil, analyst, said, market, fundamentals, remain, bearish]
+GUESS:	AM: -2.32E03	LM: -7.39E01	Total: -2.19E03	[but, many, oil, analyst, said, market, fundamentals, remain, bearish]
 GOLD:	AM: -2.12E03	LM: -7.54E01	Total: -2.20E03	[but, many, oil, analysts, said, market, fundamentals, remain, bearish]
 
 GUESS:	AM: -2.76E03	LM: -1.07E02	Total: -2.87E03	[fully, forty, three, percent, felt, that, communication, programs, do, n't, work, or, are, n't, sure, that, they, do]
